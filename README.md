@@ -52,15 +52,15 @@ Passionate about creating AI systems and web platforms that merge performance wi
 ---
 
 ### 🎓 Education
-- **BCA** | IGNOU University *(Ongoing)*  
-- **Data Science Trainee** | Techolas Technologies *(2025 – Present)*  
+- **BCA** | IGNOU University *(2023 – 2025)*  
+- **Data Science Trainee** | Techolas Technologies *(2025)*  
 - **Digital Marketing Certificate** | Avodha *(2024)*  
 
 ---
 
 ### 📫 Let's Connect
-- [📄 My Resume](./Aslam_AIML_engineer.pdf)  
+- [My Resume](./Aslam_AIML_engineer.pdf)  
 - [LinkedIn](https://www.linkedin.com/in/aslam-sadique)  
 - [Portfolio](https://my-web-tau-silk.vercel.app/)  
 - [GitHub](https://github.com/am-aslam)  
-- ✉️ Email: aslamsadique01@gmail.com
+- ✉ Email: aslamsadique01@gmail.com
