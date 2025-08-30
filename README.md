@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Muhammed Aslam 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&repeat=false&width=800&lines=Muhammed+Aslam+👋" alt="Shiny Name Animation" />
 </p>
 
 <p align="center">
