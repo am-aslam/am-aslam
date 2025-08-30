@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Muhammed+Aslam+👋;AI%2FML+Engineer+%7C+Data+Scientist;Full+Stack+%26+App+Developer;Computer+Vision+%26+LLM+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Muhammed%20Aslam%20👋;AI/ML%20Engineer%20|%20Data%20Scientist;Full%20Stack%20%26%20App%20Developer;Computer%20Vision%20%26%20LLM%20Enthusiast" alt="Typing Animation" />
 </p>
-
 <p align="center">
   <b>AI/ML Engineer | Data Scientist | Full Stack Developer</b>  
   I craft **intelligent AI systems**, **scalable web platforms**, and **real-world apps**. 🚀
