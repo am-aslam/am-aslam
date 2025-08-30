@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00C0FF&center=true&vCenter=true&width=800&lines=Muhammed+Aslam+👋" alt="Muhammed Aslam Animated" />
+  <h1 align="center">Muhammed Aslam 👋</h1>
 </p>
-
 <p align="center">
   <b>⚡ AI/ML Engineer | Data Scientist | Full Stack Developer ⚡</b><br>
   <i>Building smart AI systems, scalable apps, and impactful solutions 🚀</i>
