@@ -6,6 +6,13 @@
   <i>Building smart AI systems, scalable apps, and impactful solutions 🚀</i>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/am-aslam?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/am-aslam?label=Stars&style=social" />
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-blue" />
+  <img src="https://img.shields.io/badge/Portfolio-Live-green" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -16,11 +23,23 @@
 ---
 
 ### 🚀 Key Projects
-- **License Plate Recognition** – CV + OCR pipeline with noise handling  
-- **RNA–Ligand Drug Predictor** – ML model deployed on Streamlit  
-- **LLM QA Optimizer** – Prompt chaining with GPT + LLaMA2  
-- **MERN E-Commerce Platform** – Auth, payments, admin dashboard  
-- **React Native Expense Tracker** – Cloud-synced cross-platform app  
+
+- 🚘 **License Plate Recognition** – End-to-end **Computer Vision + OCR pipeline** with noise handling  
+  🔗 [Code](https://github.com/am-aslam/license-plate-recognition) | 🎥 [Demo](https://youtu.be/demo-link)  
+  ![Demo](https://github.com/am-aslam/license-plate-recognition/raw/main/demo.gif)
+
+- 💊 **RNA–Ligand Drug Predictor** – ML model deployed on **Streamlit** for bioinformatics research  
+  🔗 [Repo](https://github.com/am-aslam/rna-drug-predictor) | 🌐 [Live Demo](https://rna-drug.streamlit.app)
+
+- 🤖 **LLM QA Optimizer** – Prompt chaining with **GPT + LLaMA2** for smarter QA systems  
+  🔗 [Repo](https://github.com/am-aslam/llm-qa-optimizer)
+
+- 🛒 **MERN E-Commerce Platform** – Authentication, payments, and admin dashboard  
+  🔗 [Repo](https://github.com/am-aslam/mern-ecommerce)  
+  ![App UI](https://github.com/am-aslam/mern-ecommerce/raw/main/screenshot.png)
+
+- 💰 **React Native Expense Tracker** – Cloud-synced cross-platform app  
+  🔗 [Repo](https://github.com/am-aslam/expense-tracker)
 
 ---
 
@@ -36,8 +55,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=am-aslam&show_icons=true&theme=github_dark" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-aslam&layout=compact&theme=github_dark" width="300"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=am-aslam&theme=github-dark-blue" />
+</p>
 
 ---
 
-### 📫 Connect With Me
-[Resume](./Aslam_AIML_engineer.pdf) • [LinkedIn](https://www.linkedin.com/in/aslam-sadique) • [Portfolio](https://my-web-tau-silk.vercel.app/) • [GitHub](https://github.com/am-aslam) • ✉ **aslamsadique01@gmail.com**
+### 🤝 Contributing
+Want to contribute? Fork the repo, make changes, and open a PR 🚀  
+Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+---
+
+### ☕ Support My Work
+If you like my projects, consider giving a ⭐ on GitHub or buying me a coffee!  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white)](https://)
