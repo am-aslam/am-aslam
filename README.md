@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Muhammed+Aslam+👋;AI%2FML+Engineer+%7C+Data+Scientist;Full+Stack+%26+App+Developer;Computer+Vision+%26+LLM+Enthusiast" alt="Typing Animation" />
-</h1>
+</p>
 
 <p align="center">
   <b>AI/ML Engineer | Data Scientist | Full Stack Developer</b>  
